@@ -19,18 +19,34 @@ This week we had to have our ethics form to show Mike, I had mine ready but unfo
 
 ## Week Five 22-26 October
 
-
+This week we had our peer review for comp330 javascript applications which provided a lot of useful feedback. I do wish I was a little further along with this project but I am genuinley struggling with the NES work which is eating up a lot of my time. This peer review is a week earlier than previous ones so hopefully i will be able to get my work to a much better level. I also managed to setup my server this week and get my site hosted there properly. I need to start researching for my dissertation work as we were recommended to go for 60 sources and I would like to meet this. Mike discussed a lot of ethics stuff this week which was interesting too. Just need to keep an eye on the time I'm using for each projcet and be more aware.
 
 ## Week Six 29-2 October/November
 
+This week was reading week so there was not much to talk about, I spent most of it reading and working on my NES game, however I would have liked to have got more done. I reached 3k words on my dissertation at this point which is ok but I think I need to plan out which module I'm going to work on each day so I dont just do a tonne of one thing and leave others out.
+
 ## Week Seven 5-9 November
+
+This week we had the daunting task of presenting our dissertation findings which wasn't as bad as I had expected honestly but it was the longest we have had to do. I think it went quite well as I had done a lot of research but I'd also gone ahead and done a lot on my methodology too so I had a lot to talk about, the feedback was incredibley useful too. We were supposed to start working on our own NES games this week but I am still dumfounded by it, I'm going to have to finish and rewatch the NES live coding videos and hope they help.
 
 ## Week Eight 12-16 November
 
+Following the submission of our javascript games last week we had a peer review for our dissertation this week which meant other modules were put on a backburner as I wanted to have something good to show off and get feedback on. People didn't seem to like that I had Lord on my essay which was funny. Time managment and prioritising is yet again proving to be an issue for me hopefully this will improve as our modules are handed in. Our team game is looking incredible at this point, we have come so far so fast and our game is definitley one of the better ones that I have seen, I need to look into post processing effects so it looks a bit better.
+
 ## Week Nine 19-23 November
+
+This is the last week before NES handin so I have been trying to thrash that out, honestly I'll be surprised if I pass this, clearly its just not my thing. Somehow I have eneded up coding scripts for Oldschool runescape which is way more enjoyable. I cleaned up the code in our team game a lot this week as its quite messy which bugs me.
 
 ## Week Ten 26-30 November
 
+This week was the deadlines for both comp320 proposal and comp310 NES game, thats why I spent most of last week working on the NES as that deadline was first on the monday. So this week I spent finalising my research review and I ended up submitting with the 60 sources as planned thanks to two last minute additions with Mike. I am happy to finally get these two out of the way as they were my biggest worries. Now I need to start working on the component which I have a lot of ideas for.
+
 ## Week Eleven 3-7 December
 
+This week our team met up early most days to try get in as much as we could before deadline next week. I managed to get a nice looking post processing effect in game which was similar to borerlands, it basically drew black lines around objects in game and they would get lighter or darker depening on the intensity of the edge. It looks very cool in game. I also managed to fix the light issues we were having in game and made it look better overall.
+
 ## Week Twelve 10-14 December
+
+I had to leave before this week because I couldnt get a lift home at any other point however I did some final touches to the team game before we handed it in. I think I could have contributed to that a lot more than I did but work this semester was really overwhelming me. I'm happy to finally have a break even if a small one because I need to get to work on my component asap.
+
+## Summary 
