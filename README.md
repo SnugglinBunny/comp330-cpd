@@ -52,3 +52,31 @@ I had to leave before this week because I couldnt get a lift home at any other p
 ## Summary 
 
 This semester has been incredibly intense for me and sometimes I was worried I wouldn't be able to complete the course, however I have managed to meet all of my deadlines so I am both content and hopeful for next semester. Honestly I'm not sure I would like to do games programming when I finish, while I do enjoy programming a lot of the modules of the course I have either not been good out or flat out didn't like. However I can recognise that a lot of these niche modules I wouldn't face out in the real world I just have to find a job doing what I like, as I have done really well with the team games generally.  In the runup to graduation I need to work on my portfolio making it the best I possibley can and maybe look into what jobs are available and apply for some. I have rediscovered a bundle of udemy games course I had bought a year ago and plan on doing some of these, such as the unity course as I have zero experience here and would like to learn it. I'm also having a lot of fun scripting for runescape using Java so I will probably look more into that language, I used it on my college course and I enjoyed it.
+
+# Second Semester
+
+## Week One 28th Jan
+
+## Week Two 4th Feb
+
+## Week Three 11th Feb
+
+## Week Four 18th Feb
+
+## Week Five 25th Feb
+
+## Week Six 4th March
+
+## Week Seven 11th March
+
+## Week Eight 18th March
+
+## Week Nine 25th March
+
+## Week Ten 1st April
+
+## Week Eleven 8th April
+
+## Week Twelve 29th April
+
+## Smart Targets
