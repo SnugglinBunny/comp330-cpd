@@ -56,8 +56,10 @@ This semester has been incredibly intense for me and sometimes I was worried I w
 # Second Semester
 
 ## Week One 28th Jan
+As with every semester previous the first week is usually pretty relaxed, however I always feel like it takes me a bit longer to get back in to the swing of things and get working. With this being the final and most important year I need to get back to work asap and in full force. I instantly continued working on the team game this week getting in the projectiles and starting on our dialogue system. This was a good week to focus on the team game as it consisted mostly of introduction lectures to other modules and general early quite simple work.
 
 ## Week Two 4th Feb
+
 
 ## Week Three 11th Feb
 
