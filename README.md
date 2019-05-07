@@ -59,13 +59,16 @@ This semester has been incredibly intense for me and sometimes I was worried I w
 As with every semester previous the first week is usually pretty relaxed, however I always feel like it takes me a bit longer to get back in to the swing of things and get working. With this being the final and most important year I need to get back to work asap and in full force. I instantly continued working on the team game this week getting in the projectiles and starting on our dialogue system. This was a good week to focus on the team game as it consisted mostly of introduction lectures to other modules and general early quite simple work.
 
 ## Week Two 4th Feb
-
+This week we started working on Gareths optimization workshops which I found quite difficult, so I plan on booking some 1 on 1 sessions with Gareth for extra help as this is one of the earlier of our deadlines. We also looked at academic writing and research lifecycles of which I believe my dissertation project will be using prototyping. 
 
 ## Week Three 11th Feb
+Following on from last week we continued with the optimization workshops which I am still struggling with however some of them are starting to work, I could maybe look into codewars to improve on this as they are intended to be made as optimized as possible. We also look at creating our promotional materials for our game module to help us with employability which is also one of our assignments. I already have a website/linkedin/cv so I just need to check them over and then do the report which shouldn't be too hard.
 
 ## Week Four 18th Feb
+This week I started prototyping the dialogue system for our game, which is needed for a lot of interaction and storytelling in the game. The system is also a core feature of my dissertation project so it would be best to get this done asap. As for challenges this week I didn't really have anything other than I need to start commenting my code and cleaning it up a little.
 
 ## Week Five 25th Feb
+
 
 ## Week Six 4th March
 
