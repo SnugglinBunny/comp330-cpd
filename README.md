@@ -68,13 +68,16 @@ Following on from last week we continued with the optimization workshops which I
 This week I started prototyping the dialogue system for our game, which is needed for a lot of interaction and storytelling in the game. The system is also a core feature of my dissertation project so it would be best to get this done asap. As for challenges this week I didn't really have anything other than I need to start commenting my code and cleaning it up a little.
 
 ## Week Five 25th Feb
-
+With no deadlines anytime soon I am able to use a lot of my time working on our team game which is useful because we are a very small team of only 6 members with zero artists. I had to implement a projectiles ability which works quite well and uses an arc and a glowing marker to show where it will land.
 
 ## Week Six 4th March
+This week was reading week and I spent most of it doing work on the team game, fixing bugs and getting content added in. Not much to say here.
 
 ## Week Seven 11th March
+This week was show and tell and I think it went quite well, its upsetting not to win but I still think we've done really good all things considered. Before show and tell day I managed to finish the dialogue menu and add the ability to trigger functions based on the options which meant we could use it to confirm when people try enter buildings which was a huge thing from our feedback.
 
 ## Week Eight 18th March
+With the market eevaluation assignment being due next week I was working to getting the report finished. I also started adding in the positive and negative assets for the dissertation project which is starting to look very nice. I also spent a lot of time trying to get the game to build for android as that deadline is also quite soon.
 
 ## Week Nine 25th March
 
@@ -83,5 +86,6 @@ This week I started prototyping the dialogue system for our game, which is neede
 ## Week Eleven 8th April
 
 ## Week Twelve 29th April
+This is the last week before all my deadlines so I am just working to finish my dissertation and get my component to a state where i can hand it in.
 
 ## Smart Targets
