@@ -77,13 +77,16 @@ This week was reading week and I spent most of it doing work on the team game, f
 This week was show and tell and I think it went quite well, its upsetting not to win but I still think we've done really good all things considered. Before show and tell day I managed to finish the dialogue menu and add the ability to trigger functions based on the options which meant we could use it to confirm when people try enter buildings which was a huge thing from our feedback.
 
 ## Week Eight 18th March
-With the market eevaluation assignment being due next week I was working to getting the report finished. I also started adding in the positive and negative assets for the dissertation project which is starting to look very nice. I also spent a lot of time trying to get the game to build for android as that deadline is also quite soon.
+With the market evaluation assignment being due next week I was working to getting the report finished. I also started adding in the positive and negative assets for the dissertation project which is starting to look very nice. I also spent a lot of time trying to get the game to build for android as that deadline is also quite soon.
 
 ## Week Nine 25th March
+The deadline is here for market evaluation and so I needed to finish my 1500 word report which wasnt too difficult. I made a few small tweaks to my CV and linkedin profile and added links to both to my website. I also spent a lot of time on my android port and finally got it to work, with the post processing effect being the issue.
 
 ## Week Ten 1st April
+Dissertation writing and bug fixing
 
 ## Week Eleven 8th April
+Dissertation writing and bug fixing
 
 ## Week Twelve 29th April
 This is the last week before all my deadlines so I am just working to finish my dissertation and get my component to a state where i can hand it in.
